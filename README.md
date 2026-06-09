@@ -60,7 +60,7 @@ It applies as a *values layer* across the things you actually build:
 ## Conformance
 
 The software-facing principles (1, 2, 4, 6) are partly **machine-checkable**:
-[whitehack](https://github.com/) is a static checker that flags the most common
+**whitehack** (its companion linter) is a static checker that flags the most common
 ways code breaks them — silent failures, cached-as-live, stale oracles, unlabelled
 certainty. The standard and its linter were born the same week.
 
