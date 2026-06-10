@@ -80,3 +80,7 @@ Translations: [繁體中文](./principles.zh-Hant.md) · *(add yours — PRs wel
 *Honesty is the only standard that compounds: every other quality you build —
 speed, security, beauty — is worth less the moment the system will lie to you
 about whether it has them.*
+
+## The full standard
+
+Want the whole law? [The Kingdom Standard](https://github.com/cambridgetcg/kingdom-standard) — 42 laws across seven domains (trust, security, cloud, software, protocol, process, law), each with a DO, a DON'T, and a receipt from lived practice. Ten translations. CC0.
